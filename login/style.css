@@ -1,0 +1,402 @@
+.sign-in {
+  background-color: #e5e5e5;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-in .overlap-wrapper {
+  background-color: #e5e5e5;
+  width: 1600px;
+  height: 900px;
+}
+
+.sign-in .overlap {
+  position: relative;
+  height: 900px;
+}
+
+.sign-in .group {
+  position: absolute;
+  width: 902px;
+  height: 608px;
+  top: 146px;
+  left: 349px;
+}
+
+.sign-in .overlap-group {
+  position: relative;
+  height: 608px;
+  border-radius: 25px;
+}
+
+.sign-in .rectangle-wrapper {
+  position: absolute;
+  width: 902px;
+  height: 608px;
+  top: 0;
+  left: 0;
+  background-color: var(--deep-green);
+  border-radius: 25px;
+}
+
+.sign-in .rectangle {
+  position: relative;
+  width: 888px;
+  height: 594px;
+  top: 7px;
+  left: 7px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.sign-in .inputs {
+  top: 146px;
+  left: 34px;
+  position: absolute;
+  width: 834px;
+  height: 158px;
+}
+
+.sign-in .overlap-group-wrapper {
+  position: absolute;
+  width: 836px;
+  height: 71px;
+  top: 87px;
+  left: 0;
+}
+
+.sign-in .div {
+  position: relative;
+  width: 834px;
+  height: 71px;
+}
+
+.sign-in .input {
+  position: absolute;
+  width: 834px;
+  height: 71px;
+  top: 0;
+  left: 0;
+}
+
+.sign-in .ic-visibility-wrapper {
+  background-image: url(./img/rec.svg);
+  position: relative;
+  height: 44px;
+  top: 27px;
+  background-size: 100% 100%;
+}
+
+.sign-in .ic-visibility {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 10px;
+  left: 792px;
+}
+
+.sign-in .text-wrapper {
+  top: 0;
+  left: 14px;
+  font-weight: 500;
+  font-size: 20px;
+  position: absolute;
+  height: 20px;
+  font-family: "Montserrat", Helvetica;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.sign-in .div-wrapper {
+  position: absolute;
+  width: 836px;
+  height: 71px;
+  top: 0;
+  left: 0;
+}
+
+.sign-in .rec {
+  position: absolute;
+  width: 834px;
+  height: 44px;
+  top: 27px;
+  left: 0;
+}
+
+.sign-in .text-wrapper-2 {
+  top: 0;
+  left: 15px;
+  font-weight: 500;
+  font-size: 20px;
+  position: absolute;
+  height: 20px;
+  font-family: "Montserrat", Helvetica;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.sign-in .btn-main {
+  top: 343px;
+  left: 278px;
+  position: absolute;
+  width: 346px;
+  height: 64px;
+}
+
+.sign-in .btn-text-wrapper {
+  position: relative;
+  width: 386px;
+  height: 104px;
+  top: -16px;
+  left: -20px;
+  background-image: url(./img/btn-bg-1.svg);
+  background-size: 100% 100%;
+}
+
+.sign-in .btn-text {
+  position: absolute;
+  width: 346px;
+  height: 17px;
+  top: 38px;
+  left: 20px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.sign-in .separator {
+  top: 446px;
+  left: 46px;
+  position: absolute;
+  width: 814px;
+  height: 20px;
+}
+
+.sign-in .overlap-2 {
+  position: relative;
+  width: 812px;
+  height: 20px;
+}
+
+.sign-in .line {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 272px;
+  height: 1px;
+  top: 10px;
+}
+
+.sign-in .img {
+  left: 541px;
+  position: absolute;
+  width: 272px;
+  height: 1px;
+  top: 10px;
+}
+
+.sign-in .heading {
+  position: absolute;
+  width: 396px;
+  height: 20px;
+  top: 0;
+  left: 207px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: var(--black);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.sign-in .nav-btn {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 37px;
+  left: 34px;
+}
+
+.sign-in .ic-arrow-wrapper {
+  position: relative;
+  width: 56px;
+  height: 56px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 28px;
+  box-shadow: 0px 4px 15px #00000026;
+}
+
+.sign-in .ic-arrow {
+  position: relative;
+  top: 6px;
+  left: 5px;
+  width: 45px;
+  height: 45px;
+}
+
+.sign-in .ic-arrow-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 45px;
+  height: 45px;
+}
+
+.sign-in .text-wrapper-3 {
+  top: 199px;
+  left: 759px;
+  font-weight: 600;
+  font-size: 32px;
+  position: absolute;
+  height: 20px;
+  font-family: "Montserrat", Helvetica;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.sign-in .social {
+  top: 631px;
+  left: 654px;
+  position: absolute;
+  width: 292px;
+  height: 70px;
+}
+
+.sign-in .ic-gmail {
+  background-image: url(./img/shape-3.svg);
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: 0;
+  left: 222px;
+  background-size: 100% 100%;
+}
+
+.sign-in .ic-facebook {
+  background-image: url(./img/shape-2.svg);
+  position: absolute;
+  width: 70px;
+  height: 69px;
+  top: 0;
+  left: 0;
+  background-size: 100% 100%;
+}
+
+.sign-in .ic-twitter {
+  background-image: url(./img/shape-1.svg);
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: 0;
+  left: 111px;
+  background-size: 100% 100%;
+}
+
+.sign-in .desktop {
+  position: absolute;
+  width: 1600px;
+  height: 900px;
+  top: 0;
+  left: 0;
+  background-color: #dadada;
+}
+
+.sign-in .overlap-3 {
+  position: relative;
+  width: 888px;
+  height: 594px;
+  top: 153px;
+  left: 356px;
+  border-radius: 25px;
+}
+
+.sign-in .group-2 {
+  position: absolute;
+  width: 888px;
+  height: 594px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.sign-in .inputs-2 {
+  top: 139px;
+  left: 27px;
+  position: absolute;
+  width: 834px;
+  height: 158px;
+}
+
+.sign-in .btn-main-2 {
+  top: 336px;
+  left: 271px;
+  position: absolute;
+  width: 346px;
+  height: 64px;
+}
+
+.sign-in .overlap-4 {
+  position: relative;
+  width: 386px;
+  height: 104px;
+  top: -16px;
+  left: -20px;
+  background-image: url(./img/btn-bg.svg);
+  background-size: 100% 100%;
+}
+
+.sign-in .separator-2 {
+  top: 439px;
+  left: 39px;
+  position: absolute;
+  width: 814px;
+  height: 20px;
+}
+
+.sign-in .nav-btn-2 {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 30px;
+  left: 27px;
+}
+
+.sign-in .text-wrapper-4 {
+  top: 46px;
+  left: 403px;
+  font-weight: 600;
+  font-size: 32px;
+  position: absolute;
+  height: 20px;
+  font-family: "Montserrat", Helvetica;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.sign-in .social-2 {
+  top: 478px;
+  left: 298px;
+  position: absolute;
+  width: 292px;
+  height: 70px;
+}
