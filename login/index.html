@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="globals.css" />
+  <link rel="stylesheet" href="styleguide.css" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Login Page</title>
+</head>
+<body>
+  <div class="sign-in">
+    <div class="overlap-wrapper">
+      <div class="overlap">
+        <div class="group">
+          <div class="overlap-group">
+            <div class="rectangle-wrapper">
+              <div class="rectangle"></div>
+            </div>
+            <div class="inputs">
+              <div class="overlap-group-wrapper">
+                <div class="div">
+                  <div class="input div-wrapper password-wrapper">
+                    <input type="password" id="passwordInput" class="password-input" />
+                    <div class="ic-visibility-wrapper" onclick="togglePasswordVisibility('passwordInput', 'ic-visibility')">
+                      <img class="ic-visibility" src="img/ic-visibility-1.svg" />
+                    </div>
+                  </div>
+                  <div class="text-wrapper">ПАРОЛЬ</div>
+                </div>
+              </div>
+              <div class="div-wrapper">
+                <div class="div">
+                  <div class="input">
+                    <div class="rec" contenteditable="true"></div>
+                  </div>
+                  <div class="text-wrapper-2">ЕЛЕКТРОННА ПОШТА</div>
+                </div>
+              </div>
+            </div>
+            <div class="btn-main" onclick="login()">
+              <div class="btn-text-wrapper">
+                <div class="btn-text">Увійти</div>
+              </div>
+            </div>
+            <div class="separator">
+              <div class="overlap-2">
+                <img class="line" src="img/line-1.svg" />
+                <img class="img" src="img/line.svg" />
+                <div class="heading">УВІЙДІТЬ ЗА ДОПОМОГОЮ</div>
+              </div>
+            </div>
+            <div class="nav-btn">
+              <div class="ic-arrow-wrapper">
+                <div class="ic-arrow"><img class="ic-arrow-2" src="img/ic-arrow.svg" /></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="text-wrapper-3">ВХІД</div>
+        <div class="social">
+          <div class="ic-gmail"></div>
+          <div class="ic-facebook"></div>
+          <div class="ic-twitter"></div>
+        </div>
+        <div class="desktop">
+          <div class="overlap-3">
+            <div class="group-2">
+              <div class="inputs-2">
+                <div class="overlap-group-wrapper">
+                <div class="div-wrapper">
+                  <div class="div">
+                    <div class="input">
+                      <div class="rec-2" contenteditable="true"></div>
+                    </div>
+                    <div class="text-wrapper-2">ПАРОЛЬ</div>
+                  </div>
+                </div>
+              </div>
+                <div class="div-wrapper">
+                  <div class="div">
+                    <div class="input">
+					  <div class="input"><img class="rec" src="img/rec.svg" /></div>
+                      <div class="rec-1" contenteditable="true"></div>
+                    </div>
+                    <div class="text-wrapper-2">ЕЛЕКТРОННА ПОШТА</div>
+                  </div>
+                </div>
+              </div>
+              <div class="btn-main-2" onclick="loginDesktop()">
+                <div class="overlap-4"><div class="btn-text">Увійти</div></div>
+              </div>
+              <div class="separator-2">
+                <div class="overlap-2">
+                  <img class="line" src="img/line-1.svg" />
+                  <img class="img" src="img/line.svg" />
+                  <div class="heading">УВІЙДІТЬ ЗА ДОПОМОГОЮ</div>
+                </div>
+              </div>
+              <div class="nav-btn-2">
+                <div class="ic-arrow-wrapper">
+                  <div class="ic-arrow"><img class="ic-arrow-2" src="img/ic-arrow.svg" /></div>
+                </div>
+              </div>
+            </div>
+            <div class="text-wrapper-4">ВХІД</div>
+            <div class="social-2">
+              <div class="ic-gmail"></div>
+              <div class="ic-facebook"></div>
+              <div class="ic-twitter"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
