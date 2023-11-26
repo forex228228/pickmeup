@@ -1,0 +1,272 @@
+.address-selection {
+  background-color: #dadada;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.address-selection .overlap-wrapper {
+  background-color: #dadada;
+  width: 1600px;
+  height: 900px;
+}
+
+.address-selection .overlap {
+  position: relative;
+  width: 1523px;
+  height: 820px;
+  top: 40px;
+  left: 40px;
+}
+
+.address-selection .map {
+  position: absolute;
+  width: 536px;
+  height: 820px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.address-selection .nav-btn {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 30px;
+  left: 26px;
+}
+
+.address-selection .overlap-group {
+  position: relative;
+  width: 66px;
+  height: 66px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 33px;
+  box-shadow: 0px 4px 15px #00000026;
+}
+
+.address-selection .ic-arrow {
+  position: relative;
+  width: 53px;
+  height: 53px;
+  top: 6px;
+  left: 6px;
+}
+
+.address-selection .img {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  top: 0;
+  left: 0;
+}
+
+.address-selection .rectangle {
+  position: absolute;
+  width: 1020px;
+  height: 820px;
+  top: 0;
+  left: 503px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.address-selection .view {
+  position: absolute;
+  width: 897px;
+  height: 104px;
+  top: 449px;
+  left: 545px;
+}
+
+.address-selection .text-wrapper {
+  top: 51px;
+  left: 88px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #4b545a;
+  font-size: 20px;
+  line-height: 27.2px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.address-selection .line {
+  position: absolute;
+  width: 814px;
+  height: 2px;
+  top: 102px;
+  left: 79px;
+}
+
+.address-selection .ic-place {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 42px;
+  left: 0;
+}
+
+.address-selection .div {
+  height: 24px;
+  top: 0;
+  left: 82px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #909091;
+  font-size: 18px;
+  line-height: 24.5px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.address-selection .view-2 {
+  position: absolute;
+  width: 246px;
+  height: 50px;
+  top: 306px;
+  left: 613px;
+}
+
+.address-selection .ic-loc {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: -1px;
+  left: 0;
+}
+
+.address-selection .text-wrapper-2 {
+  height: 24px;
+  top: 15px;
+  left: 50px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #92bb54;
+  font-size: 18px;
+  line-height: 24.5px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.address-selection .overlap-group-wrapper {
+  position: absolute;
+  width: 835px;
+  height: 146px;
+  top: 130px;
+  left: 576px;
+}
+
+.address-selection .overlap-2 {
+  position: relative;
+  width: 831px;
+  height: 146px;
+}
+
+.address-selection .address {
+  position: absolute;
+  width: 831px;
+  height: 146px;
+  top: 0;
+  left: 0;
+}
+
+.address-selection .overlap-group-2 {
+  position: relative;
+  width: 861px;
+  height: 176px;
+  top: -11px;
+  left: -15px;
+  background-image: url(./img/bg-1.svg);
+  background-size: 100% 100%;
+}
+
+.address-selection .line-2 {
+  position: absolute;
+  width: 789px;
+  height: 1px;
+  top: 84px;
+  left: 57px;
+  object-fit: cover;
+}
+
+.address-selection .ic-route {
+  position: absolute;
+  width: 59px;
+  height: 101px;
+  top: 33px;
+  left: 34px;
+}
+
+.address-selection .ellipse {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 0;
+  left: 0;
+  background-color: var(--deep-green);
+  border-radius: 4px;
+}
+
+.address-selection .line-3 {
+  position: absolute;
+  width: 1px;
+  height: 80px;
+  top: 12px;
+  left: 4px;
+}
+
+.address-selection .triangle {
+  position: absolute;
+  width: 9px;
+  height: 6px;
+  top: 95px;
+  left: 0;
+}
+
+.address-selection .text-wrapper-3 {
+  height: 30px;
+  top: 100px;
+  left: 52px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22px;
+  line-height: 29.9px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.address-selection .text-wrapper-4 {
+  height: 30px;
+  top: 11px;
+  left: 52px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22px;
+  line-height: 29.9px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.address-selection .text-wrapper-5 {
+  top: 41px;
+  left: 872px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  line-height: 20px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}

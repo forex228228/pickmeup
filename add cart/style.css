@@ -1,0 +1,206 @@
+.add-cart {
+  background-color: #dadada;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.add-cart .overlap-wrapper {
+  background-color: #dadada;
+  width: 1600px;
+  height: 900px;
+}
+
+.add-cart .overlap {
+  position: relative;
+  width: 1520px;
+  height: 820px;
+  top: 40px;
+  left: 40px;
+  border-radius: 25px;
+}
+
+.add-cart .group {
+  position: absolute;
+  width: 1520px;
+  height: 820px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.add-cart .nav-btn {
+  position: relative;
+  width: 64px;
+  height: 64px;
+  top: 30px;
+  left: 26px;
+}
+
+.add-cart .overlap-group {
+  position: relative;
+  width: 66px;
+  height: 66px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 33px;
+  box-shadow: 0px 4px 15px #00000026;
+}
+
+.add-cart .ic-arrow {
+  position: relative;
+  width: 53px;
+  height: 53px;
+  top: 6px;
+  left: 6px;
+}
+
+.add-cart .img {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  top: 0;
+  left: 0;
+}
+
+.add-cart .view {
+  position: absolute;
+  width: 520px;
+  height: 64px;
+  top: 685px;
+  left: 501px;
+}
+
+.add-cart .div-wrapper {
+  position: relative;
+  width: 534px;
+  height: 80px;
+  top: -6px;
+  left: -8px;
+  background-image: url(./img/btn-bg.svg);
+  background-size: 100% 100%;
+}
+
+.add-cart .text-wrapper {
+  height: 38px;
+  top: 19px;
+  left: 214px;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 38.1px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  white-space: nowrap;
+}
+
+.add-cart .div {
+  height: 336px;
+  top: 188px;
+  left: 107px;
+  position: absolute;
+  width: 653px;
+}
+
+.add-cart .cvv {
+  position: absolute;
+  width: 318px;
+  height: 90px;
+  top: 246px;
+  left: 337px;
+}
+
+.add-cart .text-wrapper-2 {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 32px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.add-cart .rec {
+  position: absolute;
+  width: 316px;
+  height: 62px;
+  top: 29px;
+  left: 0;
+}
+
+.add-cart .data {
+  position: absolute;
+  width: 318px;
+  height: 90px;
+  top: 246px;
+  left: 0;
+}
+
+.add-cart .text-wrapper-3 {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 34px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.add-cart .name {
+  position: absolute;
+  width: 653px;
+  height: 91px;
+  top: 123px;
+  left: 2px;
+}
+
+.add-cart .rec-2 {
+  width: 652px;
+  top: 30px;
+  position: absolute;
+  height: 62px;
+  left: 0;
+}
+
+.add-cart .view-2 {
+  height: 92px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 653px;
+}
+
+.add-cart .rec-3 {
+  width: 652px;
+  top: 31px;
+  position: absolute;
+  height: 62px;
+  left: 0;
+}
+
+.add-cart .text-wrapper-4 {
+  height: 28px;
+  top: 46px;
+  left: 606px;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  line-height: 28px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  white-space: nowrap;
+}

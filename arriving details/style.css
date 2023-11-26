@@ -1,0 +1,374 @@
+.arriving-details {
+  background-color: #dadada;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.arriving-details .overlap-wrapper {
+  background-color: #dadada;
+  width: 1600px;
+  height: 900px;
+}
+
+.arriving-details .overlap {
+  position: relative;
+  width: 1523px;
+  height: 820px;
+  top: 40px;
+  left: 40px;
+}
+
+.arriving-details .map {
+  position: absolute;
+  width: 584px;
+  height: 820px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.arriving-details .rectangle {
+  position: absolute;
+  width: 1020px;
+  height: 820px;
+  top: 0;
+  left: 503px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.arriving-details .payment {
+  position: absolute;
+  width: 787px;
+  height: 72px;
+  top: 592px;
+  left: 561px;
+}
+
+.arriving-details .bg {
+  position: relative;
+  width: 789px;
+  height: 62px;
+  top: 5px;
+  left: -1px;
+  background-color: var(--grey-3);
+  border-radius: 15px;
+}
+
+.arriving-details .group {
+  position: absolute;
+  width: 163px;
+  height: 49px;
+  top: 603px;
+  left: 584px;
+}
+
+.arriving-details .text-wrapper {
+  position: absolute;
+  height: 24px;
+  top: 14px;
+  left: 76px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24.5px;
+  white-space: nowrap;
+}
+
+.arriving-details .cards {
+  position: absolute;
+  width: 49px;
+  height: 49px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/ic-mastercard-2.svg);
+  background-size: 100% 100%;
+}
+
+.arriving-details .route-details {
+  position: absolute;
+  width: 795px;
+  height: 174px;
+  top: 396px;
+  left: 562px;
+}
+
+.arriving-details .overlap-group {
+  position: relative;
+  width: 788px;
+  height: 175px;
+  top: -1px;
+  background-image: url(./img/bg.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.arriving-details .set-your-location {
+  position: absolute;
+  width: 78px;
+  top: 28px;
+  left: 43px;
+  font-family: var(--13-text-reg-font-family);
+  font-weight: var(--13-text-reg-font-weight);
+  color: var(--grey-2);
+  font-size: var(--13-text-reg-font-size);
+  letter-spacing: var(--13-text-reg-letter-spacing);
+  line-height: var(--13-text-reg-line-height);
+  white-space: nowrap;
+  font-style: var(--13-text-reg-font-style);
+}
+
+.arriving-details .div {
+  position: absolute;
+  width: 86px;
+  top: 125px;
+  left: 44px;
+  font-family: var(--13-text-reg-font-family);
+  font-weight: var(--13-text-reg-font-weight);
+  color: var(--grey-2);
+  font-size: var(--13-text-reg-font-size);
+  letter-spacing: var(--13-text-reg-letter-spacing);
+  line-height: var(--13-text-reg-line-height);
+  white-space: nowrap;
+  font-style: var(--13-text-reg-font-style);
+}
+
+.arriving-details .address {
+  position: absolute;
+  width: 553px;
+  top: 121px;
+  left: 218px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: var(--black);
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 20.4px;
+  white-space: nowrap;
+}
+
+.arriving-details .text {
+  position: absolute;
+  width: 500px;
+  top: 27px;
+  left: 218px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: var(--black);
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 20.4px;
+}
+
+.arriving-details .ic-route {
+  position: absolute;
+  width: 51px;
+  height: 105px;
+  top: 30px;
+  left: 147px;
+}
+
+.arriving-details .group-2 {
+  position: absolute;
+  width: 57px;
+  height: 28px;
+  top: 337px;
+  left: 620px;
+}
+
+.arriving-details .text-wrapper-2 {
+  position: absolute;
+  top: 6px;
+  left: 31px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 21.8px;
+  white-space: nowrap;
+}
+
+.arriving-details .group-wrapper {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 0;
+  left: 0;
+}
+
+.arriving-details .star-wrapper {
+  position: relative;
+  height: 28px;
+}
+
+.arriving-details .star {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 3px;
+  left: 4px;
+}
+
+.arriving-details .view {
+  position: absolute;
+  width: 520px;
+  height: 64px;
+  top: 687px;
+  left: 754px;
+}
+
+.arriving-details .div-wrapper {
+  position: relative;
+  width: 534px;
+  height: 80px;
+  top: -6px;
+  left: -8px;
+  background-image: url(./img/btn-bg.svg);
+  background-size: 100% 100%;
+}
+
+.arriving-details .text-wrapper-3 {
+  position: absolute;
+  height: 38px;
+  top: 19px;
+  left: 145px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 38.1px;
+  white-space: nowrap;
+}
+
+.arriving-details .text-wrapper-4 {
+  position: absolute;
+  top: 42px;
+  left: 955px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0.2px;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.arriving-details .view-2 {
+  position: absolute;
+  width: 191px;
+  height: 235px;
+  top: 102px;
+  left: 562px;
+}
+
+.arriving-details .photo {
+  position: absolute;
+  width: 189px;
+  height: 190px;
+  top: 0;
+  left: 0;
+}
+
+.arriving-details .text-wrapper-5 {
+  position: absolute;
+  width: 104px;
+  top: 210px;
+  left: 42px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.arriving-details .nav-btn {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 29px;
+  left: 34px;
+}
+
+.arriving-details .ic-close-wrapper {
+  position: relative;
+  width: 66px;
+  height: 66px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 33px;
+  box-shadow: 0px 4px 15px #00000026;
+}
+
+.arriving-details .ic-close {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  top: 6px;
+  left: 6px;
+}
+
+.arriving-details .overlap-group-wrapper {
+  position: absolute;
+  width: 137px;
+  height: 34px;
+  top: 308px;
+  left: 1211px;
+}
+
+.arriving-details .overlap-2 {
+  position: relative;
+  width: 133px;
+  height: 34px;
+  background-color: #d5dde0ad;
+  border-radius: 15px;
+}
+
+.arriving-details .text-wrapper-6 {
+  position: absolute;
+  width: 74px;
+  height: 24px;
+  top: 5px;
+  left: 13px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000db;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24.5px;
+}
+
+.arriving-details .text-wrapper-7 {
+  position: absolute;
+  width: 19px;
+  height: 20px;
+  top: 0;
+  left: 91px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #4b545a;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 20.4px;
+}
+
+.arriving-details .text-wrapper-8 {
+  position: absolute;
+  height: 24px;
+  top: 345px;
+  left: 1193px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #979797;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24.5px;
+  white-space: nowrap;
+}

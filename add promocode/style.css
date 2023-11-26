@@ -1,0 +1,130 @@
+.add-promocode {
+  background-color: #dadada;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.add-promocode .overlap-wrapper {
+  background-color: #dadada;
+  width: 1600px;
+  height: 900px;
+}
+
+.add-promocode .overlap {
+  position: relative;
+  width: 1520px;
+  height: 820px;
+  top: 40px;
+  left: 40px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.add-promocode .btn-main {
+  position: absolute;
+  width: 506px;
+  height: 60px;
+  top: 684px;
+  left: 507px;
+}
+
+.add-promocode .overlap-group {
+  position: relative;
+  width: 522px;
+  height: 76px;
+  top: -6px;
+  left: -8px;
+  background-image: url(./img/btn-bg-1.svg);
+  background-size: 100% 100%;
+}
+
+.add-promocode .btn-text {
+  position: absolute;
+  width: 506px;
+  height: 16px;
+  top: 27px;
+  left: 8px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.add-promocode .code {
+  position: absolute;
+  width: 454px;
+  height: 32px;
+  top: 325px;
+  left: 533px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 900;
+  color: var(--deep-green);
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 1.95px;
+  line-height: 32px;
+}
+
+.add-promocode .line {
+  position: absolute;
+  width: 702px;
+  height: 2px;
+  top: 357px;
+  left: 409px;
+  object-fit: cover;
+}
+
+.add-promocode .text-wrapper {
+  position: absolute;
+  height: 20px;
+  top: 51px;
+  left: 552px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.add-promocode .nav-btn {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 30px;
+  left: 26px;
+}
+
+.add-promocode .ic-arrow-wrapper {
+  position: relative;
+  width: 66px;
+  height: 66px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 33px;
+  box-shadow: 0px 4px 15px #00000026;
+}
+
+.add-promocode .ic-arrow {
+  position: relative;
+  width: 53px;
+  height: 53px;
+  top: 6px;
+  left: 6px;
+}
+
+.add-promocode .img {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  top: 0;
+  left: 0;
+}
