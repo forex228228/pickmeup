@@ -1,0 +1,195 @@
+.chat-empty {
+  background-color: #dadada;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.chat-empty .group-wrapper {
+  background-color: #dadada;
+  width: 1600px;
+  height: 900px;
+}
+
+.chat-empty .group {
+  position: relative;
+  width: 1520px;
+  height: 820px;
+  top: 40px;
+  left: 40px;
+  background-color: #ffffff;
+}
+
+.chat-empty .nav-btn {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 30px;
+  left: 26px;
+}
+
+.chat-empty .overlap-group {
+  position: relative;
+  width: 66px;
+  height: 66px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 33px;
+  box-shadow: 0px 4px 15px #00000026;
+}
+
+.chat-empty .ic-arrow {
+  position: relative;
+  width: 53px;
+  height: 53px;
+  top: 6px;
+  left: 6px;
+}
+
+.chat-empty .img {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  top: 0;
+  left: 0;
+}
+
+.chat-empty .view {
+  position: absolute;
+  width: 910px;
+  height: 100px;
+  top: 25px;
+  left: 578px;
+}
+
+.chat-empty .photo {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 0;
+  left: 806px;
+}
+
+.chat-empty .div {
+  top: 27px;
+  left: 116px;
+  font-family: "Montserrat", Helvetica;
+  color: #000000;
+  font-size: 34px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.chat-empty .text-wrapper {
+  font-weight: 600;
+}
+
+.chat-empty .span {
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.chat-empty .text-wrapper-2 {
+  position: absolute;
+  top: 59px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #979797;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.chat-empty .overlap-wrapper {
+  position: absolute;
+  width: 1522px;
+  height: 80px;
+  top: 740px;
+  left: 0;
+}
+
+.chat-empty .overlap {
+  position: relative;
+  height: 82px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 0px 0px 25px 25px;
+  box-shadow: 0px 0px 30px #0000001a;
+}
+
+.chat-empty .btn-call {
+  position: absolute;
+  width: 59px;
+  height: 59px;
+  top: 9px;
+  left: 19px;
+}
+
+.chat-empty .ic-call-wrapper {
+  position: relative;
+  width: 61px;
+  height: 61px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 30.5px;
+  box-shadow: 0px 4px 15px #00000026;
+}
+
+.chat-empty .ic-call {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  top: 13px;
+  left: 13px;
+}
+
+.chat-empty .shape-wrapper {
+  position: relative;
+  width: 54px;
+  height: 54px;
+  top: -4px;
+  left: -10px;
+  background-image: url(./img/shape-3.svg);
+  background-size: 100% 100%;
+}
+
+.chat-empty .shape {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 10px;
+  left: 28px;
+}
+
+.chat-empty .div-wrapper {
+  position: absolute;
+  width: 1392px;
+  height: 47px;
+  top: 18px;
+  left: 98px;
+  background-image: url(./img/rec.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.chat-empty .text-wrapper-3 {
+  top: 14px;
+  left: 28px;
+  font-family: "Montserrat Alternates", Helvetica;
+  color: #4b545aed;
+  font-size: 20px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}

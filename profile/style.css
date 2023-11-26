@@ -1,0 +1,246 @@
+.profile {
+  background-color: #dadada;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.profile .overlap-wrapper {
+  background-color: #dadada;
+  width: 1600px;
+  height: 900px;
+}
+
+.profile .overlap {
+  position: relative;
+  width: 1520px;
+  height: 820px;
+  top: 40px;
+  left: 40px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.profile .view {
+  position: absolute;
+  width: 520px;
+  height: 64px;
+  top: 685px;
+  left: 501px;
+}
+
+.profile .overlap-group {
+  position: relative;
+  width: 534px;
+  height: 80px;
+  top: -6px;
+  left: -8px;
+  background-image: url(./img/btn-bg.svg);
+  background-size: 100% 100%;
+}
+
+.profile .text-wrapper {
+  top: 19px;
+  left: 142px;
+  font-family: "Montserrat", Helvetica;
+  color: #ffffff;
+  position: absolute;
+  height: 38px;
+  font-weight: 400;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 38.1px;
+  white-space: nowrap;
+}
+
+.profile .photo-user {
+  position: absolute;
+  width: 276px;
+  height: 276px;
+  top: 30px;
+  left: 622px;
+}
+
+.profile .nav-btn {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 30px;
+  left: 26px;
+}
+
+.profile .ic-arrow-wrapper {
+  position: relative;
+  width: 66px;
+  height: 66px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 33px;
+  box-shadow: 0px 4px 15px #00000026;
+}
+
+.profile .ic-arrow {
+  position: relative;
+  top: 6px;
+  left: 6px;
+  width: 53px;
+  height: 53px;
+}
+
+.profile .img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 53px;
+  height: 53px;
+}
+
+.profile .info {
+  position: absolute;
+  width: 762px;
+  height: 235px;
+  top: 416px;
+  left: 382px;
+}
+
+.profile .div {
+  position: relative;
+  width: 756px;
+  height: 235px;
+}
+
+.profile .line {
+  top: 156px;
+  position: absolute;
+  width: 702px;
+  height: 2px;
+  left: 27px;
+  object-fit: cover;
+}
+
+.profile .list {
+  position: absolute;
+  width: 756px;
+  height: 235px;
+  top: 0;
+  left: 0;
+}
+
+.profile .item-wrapper {
+  position: relative;
+  width: 786px;
+  height: 265px;
+  top: -11px;
+  left: -15px;
+  background-image: url(./img/bg.svg);
+  background-size: 100% 100%;
+}
+
+.profile .item {
+  position: relative;
+  width: 29px;
+  height: 30px;
+  top: 38px;
+  left: 35px;
+}
+
+.profile .text-wrapper-2 {
+  position: absolute;
+  top: 184px;
+  left: 84px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #4b545a;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.2px;
+  white-space: nowrap;
+}
+
+.profile .text-wrapper-3 {
+  position: absolute;
+  top: 104px;
+  left: 84px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #594f4f;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.2px;
+  white-space: nowrap;
+}
+
+.profile .p {
+  position: absolute;
+  top: 23px;
+  left: 84px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #594f4f;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27.2px;
+  white-space: nowrap;
+}
+
+.profile .line-2 {
+  top: 157px;
+  position: absolute;
+  width: 702px;
+  height: 2px;
+  left: 27px;
+  object-fit: cover;
+}
+
+.profile .line-3 {
+  top: 75px;
+  position: absolute;
+  width: 702px;
+  height: 2px;
+  left: 27px;
+  object-fit: cover;
+}
+
+.profile .ic-facebook {
+  position: absolute;
+  width: 38px;
+  height: 39px;
+  top: 179px;
+  left: 20px;
+  background-image: url(./img/shape-4.svg);
+  background-size: 100% 100%;
+}
+
+.profile .ic-mail {
+  position: absolute;
+  width: 38px;
+  height: 39px;
+  top: 97px;
+  left: 20px;
+  background-image: url(./img/shape-3.svg);
+  background-size: 100% 100%;
+}
+
+.profile .shape {
+  position: absolute;
+  width: 38px;
+  height: 39px;
+  top: 16px;
+  left: 20px;
+}
+
+.profile .text-wrapper-4 {
+  top: 338px;
+  left: 707px;
+  font-family: "Montserrat Alternates", Helvetica;
+  color: #000000;
+  position: absolute;
+  height: 38px;
+  font-weight: 400;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 38.1px;
+  white-space: nowrap;
+}
