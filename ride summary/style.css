@@ -1,0 +1,382 @@
+.ride-summary {
+  background-color: #dadada;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.ride-summary .overlap-wrapper {
+  background-color: #dadada;
+  width: 1600px;
+  height: 900px;
+}
+
+.ride-summary .overlap {
+  position: relative;
+  width: 1538px;
+  height: 835px;
+  top: 40px;
+  left: 40px;
+}
+
+.ride-summary .map {
+  position: absolute;
+  width: 570px;
+  height: 820px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/map.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.ride-summary .route {
+  position: relative;
+  width: 420px;
+  height: 264px;
+  top: 187px;
+  left: 50px;
+}
+
+.ride-summary .overlap-group {
+  position: relative;
+  width: 427px;
+  height: 275px;
+}
+
+.ride-summary .img {
+  position: absolute;
+  width: 350px;
+  height: 183px;
+  top: 45px;
+  left: 34px;
+}
+
+.ride-summary .ic-loc {
+  position: absolute;
+  width: 72px;
+  height: 75px;
+  top: 9px;
+  left: 0;
+}
+
+.ride-summary .ic-dropoff {
+  position: absolute;
+  width: 66px;
+  height: 67px;
+  top: 208px;
+  left: 361px;
+}
+
+.ride-summary .ic-pick {
+  position: absolute;
+  width: 52px;
+  height: 54px;
+  top: 0;
+  left: 10px;
+  border-radius: 25px 0px 0px 25px;
+}
+
+.ride-summary .ic-dest {
+  position: relative;
+  width: 29px;
+  height: 49px;
+  left: 11px;
+}
+
+.ride-summary .div {
+  position: relative;
+  height: 49px;
+}
+
+.ride-summary .path {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 44px;
+  left: 12px;
+}
+
+.ride-summary .path-2 {
+  position: absolute;
+  width: 2px;
+  height: 16px;
+  top: 29px;
+  left: 13px;
+}
+
+.ride-summary .path-3 {
+  position: absolute;
+  width: 28px;
+  height: 29px;
+  top: 1px;
+  left: 1px;
+}
+
+.ride-summary .shape {
+  position: absolute;
+  width: 29px;
+  height: 31px;
+  top: 0;
+  left: 0;
+}
+
+.ride-summary .path-4 {
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  top: 16px;
+  left: 10px;
+}
+
+.ride-summary .rectangle {
+  position: absolute;
+  width: 1020px;
+  height: 820px;
+  top: 0;
+  left: 503px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.ride-summary .bg {
+  position: absolute;
+  width: 1050px;
+  height: 476px;
+  top: 359px;
+  left: 488px;
+  object-fit: cover;
+}
+
+.ride-summary .ic-arrow {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  top: 685px;
+  left: 1421px;
+}
+
+.ride-summary .ic-arrow-2 {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  top: 608px;
+  left: 1425px;
+}
+
+.ride-summary .ic-arrow-3 {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  top: 530px;
+  left: 1425px;
+}
+
+.ride-summary .ic-arrow-4 {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  top: 452px;
+  left: 1425px;
+}
+
+.ride-summary .element {
+  position: absolute;
+  width: 921px;
+  height: 57px;
+  top: 685px;
+  left: 553px;
+}
+
+.ride-summary .line {
+  position: absolute;
+  width: 919px;
+  height: 1px;
+  top: 56px;
+  left: 0;
+  object-fit: cover;
+}
+
+.ride-summary .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 25px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #4b545a;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 31.9px;
+  white-space: nowrap;
+}
+
+.ride-summary .element-2 {
+  position: absolute;
+  width: 921px;
+  height: 57px;
+  top: 607px;
+  left: 555px;
+}
+
+.ride-summary .element-3 {
+  position: absolute;
+  width: 921px;
+  height: 57px;
+  top: 529px;
+  left: 553px;
+}
+
+.ride-summary .route-details {
+  position: absolute;
+  width: 795px;
+  height: 174px;
+  top: 130px;
+  left: 570px;
+}
+
+.ride-summary .overlap-2 {
+  position: relative;
+  width: 788px;
+  height: 175px;
+  top: -1px;
+  left: -1px;
+  background-image: url(./img/bg.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.ride-summary .set-your-location {
+  position: absolute;
+  width: 78px;
+  top: 28px;
+  left: 43px;
+  font-family: var(--13-text-reg-font-family);
+  font-weight: var(--13-text-reg-font-weight);
+  color: var(--grey-2);
+  font-size: var(--13-text-reg-font-size);
+  letter-spacing: var(--13-text-reg-letter-spacing);
+  line-height: var(--13-text-reg-line-height);
+  white-space: nowrap;
+  font-style: var(--13-text-reg-font-style);
+}
+
+.ride-summary .set-your-location-2 {
+  position: absolute;
+  width: 86px;
+  top: 125px;
+  left: 44px;
+  font-family: var(--13-text-reg-font-family);
+  font-weight: var(--13-text-reg-font-weight);
+  color: var(--grey-2);
+  font-size: var(--13-text-reg-font-size);
+  letter-spacing: var(--13-text-reg-letter-spacing);
+  line-height: var(--13-text-reg-line-height);
+  white-space: nowrap;
+  font-style: var(--13-text-reg-font-style);
+}
+
+.ride-summary .address {
+  position: absolute;
+  width: 553px;
+  top: 121px;
+  left: 218px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: var(--black);
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 20.4px;
+  white-space: nowrap;
+}
+
+.ride-summary .text {
+  width: 500px;
+  top: 27px;
+  left: 218px;
+  font-weight: 500;
+  color: var(--black);
+  font-size: 15px;
+  line-height: 20.4px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+}
+
+.ride-summary .ic-route {
+  position: absolute;
+  width: 51px;
+  height: 105px;
+  top: 30px;
+  left: 147px;
+}
+
+.ride-summary .text-wrapper-2 {
+  height: 49px;
+  top: 37px;
+  left: 795px;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  line-height: 49px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+}
+
+.ride-summary .nav-btn {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 30px;
+  left: 26px;
+}
+
+.ride-summary .ic-arrow-wrapper {
+  position: relative;
+  width: 66px;
+  height: 66px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 33px;
+  box-shadow: 0px 4px 15px #00000026;
+}
+
+.ride-summary .ic-arrow-5 {
+  position: relative;
+  width: 53px;
+  height: 53px;
+  top: 6px;
+  left: 6px;
+}
+
+.ride-summary .ic-arrow-6 {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  top: 0;
+  left: 0;
+}
+
+.ride-summary .text-wrapper-3 {
+  top: 392px;
+  left: 860px;
+  font-weight: 600;
+  color: #000000;
+  font-size: 28px;
+  line-height: 37.3px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+}
+
+.ride-summary .element-4 {
+  position: absolute;
+  width: 921px;
+  height: 57px;
+  top: 451px;
+  left: 555px;
+}

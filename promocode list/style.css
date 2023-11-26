@@ -1,0 +1,209 @@
+.promocode-list {
+  background-color: #dadada;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.promocode-list .div {
+  background-color: #dadada;
+  width: 1600px;
+  height: 900px;
+  position: relative;
+}
+
+.promocode-list .overlap {
+  position: absolute;
+  width: 1520px;
+  height: 820px;
+  top: 40px;
+  left: 40px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.promocode-list .element {
+  position: absolute;
+  width: 702px;
+  height: 264px;
+  top: 146px;
+  left: 778px;
+}
+
+.promocode-list .overlap-group {
+  position: relative;
+  width: 698px;
+  height: 264px;
+}
+
+.promocode-list .item-history {
+  position: absolute;
+  width: 698px;
+  height: 264px;
+  top: 0;
+  left: 0;
+}
+
+.promocode-list .bg {
+  position: absolute;
+  width: 728px;
+  height: 294px;
+  top: -11px;
+  left: -15px;
+}
+
+.promocode-list .place-holder {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  top: 142px;
+  left: 42px;
+}
+
+.promocode-list .img {
+  width: 60px;
+  left: 78px;
+  position: absolute;
+  height: 58px;
+  top: 142px;
+}
+
+.promocode-list .place-holder-2 {
+  width: 58px;
+  left: 115px;
+  position: absolute;
+  height: 58px;
+  top: 142px;
+}
+
+.promocode-list .element-rides-with-dis {
+  position: absolute;
+  width: 326px;
+  top: 70px;
+  left: 37px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+}
+
+.promocode-list .text-wrapper {
+  position: absolute;
+  height: 20px;
+  top: 32px;
+  left: 37px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.promocode-list .overlap-wrapper {
+  position: absolute;
+  width: 702px;
+  height: 264px;
+  top: 146px;
+  left: 48px;
+}
+
+.promocode-list .element-rides-with-dis-2 {
+  position: absolute;
+  width: 245px;
+  top: 70px;
+  left: 37px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--black);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+}
+
+.promocode-list .text-wrapper-2 {
+  position: absolute;
+  top: 46px;
+  left: 693px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.promocode-list .nav-btn {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 30px;
+  left: 26px;
+}
+
+.promocode-list .ic-arrow-wrapper {
+  position: relative;
+  width: 66px;
+  height: 66px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 33px;
+  box-shadow: 0px 4px 15px #00000026;
+}
+
+.promocode-list .ic-arrow {
+  position: relative;
+  width: 53px;
+  height: 53px;
+  top: 6px;
+  left: 6px;
+}
+
+.promocode-list .ic-arrow-2 {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  top: 0;
+  left: 0;
+}
+
+.promocode-list .btn-main {
+  position: fixed;
+  width: 333px;
+  height: 60px;
+  top: 730px;
+  left: 633px;
+}
+
+.promocode-list .btn-text-wrapper {
+  position: relative;
+  width: 349px;
+  height: 76px;
+  top: -6px;
+  left: -8px;
+  background-image: url(./img/btn-bg-1.svg);
+  background-size: 100% 100%;
+}
+
+.promocode-list .btn-text {
+  position: absolute;
+  width: 333px;
+  height: 16px;
+  top: 27px;
+  left: 8px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  line-height: 28px;
+  white-space: nowrap;
+}

@@ -1,0 +1,317 @@
+.receipt {
+  background-color: #dadada;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.receipt .overlap-wrapper {
+  background-color: #dadada;
+  width: 1600px;
+  height: 900px;
+}
+
+.receipt .overlap {
+  position: relative;
+  width: 1520px;
+  height: 820px;
+  top: 40px;
+  left: 40px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.receipt .view {
+  position: absolute;
+  width: 520px;
+  height: 64px;
+  top: 685px;
+  left: 501px;
+}
+
+.receipt .overlap-group {
+  position: relative;
+  width: 534px;
+  height: 80px;
+  top: -6px;
+  left: -8px;
+  background-image: url(./img/btn-bg.svg);
+  background-size: 100% 100%;
+}
+
+.receipt .text-wrapper {
+  height: 38px;
+  top: 19px;
+  left: 214px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  line-height: 38.1px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.receipt .overlap-group-wrapper {
+  position: absolute;
+  width: 897px;
+  height: 619px;
+  top: 61px;
+  left: 312px;
+}
+
+.receipt .div {
+  position: relative;
+  width: 895px;
+  height: 619px;
+}
+
+.receipt .block {
+  position: absolute;
+  width: 895px;
+  height: 619px;
+  top: 0;
+  left: 0;
+}
+
+.receipt .group {
+  height: 619px;
+}
+
+.receipt .overlap-2 {
+  position: relative;
+  width: 897px;
+  height: 619px;
+}
+
+.receipt .bg {
+  position: absolute;
+  width: 897px;
+  height: 619px;
+  top: 0;
+  left: 0;
+}
+
+.receipt .overlap-group-2 {
+  position: relative;
+  width: 955px;
+  height: 649px;
+  top: -30px;
+  left: -30px;
+}
+
+.receipt .rec {
+  position: absolute;
+  width: 955px;
+  height: 633px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.receipt .shape {
+  position: absolute;
+  width: 895px;
+  height: 18px;
+  top: 631px;
+  left: 30px;
+  object-fit: cover;
+}
+
+.receipt .text-wrapper-2 {
+  width: 339px;
+  top: 217px;
+  left: 307px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  line-height: 42.6px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.receipt .payment {
+  position: absolute;
+  width: 787px;
+  height: 72px;
+  top: 445px;
+  left: 54px;
+}
+
+.receipt .bg-2 {
+  position: relative;
+  width: 789px;
+  height: 62px;
+  top: 5px;
+  left: -1px;
+  background-color: var(--grey-3);
+  border-radius: 15px;
+}
+
+.receipt .route-details {
+  position: absolute;
+  width: 795px;
+  height: 174px;
+  top: 251px;
+  left: 54px;
+}
+
+.receipt .overlap-3 {
+  position: relative;
+  width: 788px;
+  height: 175px;
+  top: -1px;
+  background-image: url(./img/bg.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.receipt .set-your-location {
+  position: absolute;
+  width: 78px;
+  top: 28px;
+  left: 43px;
+  font-family: var(--13-text-reg-font-family);
+  font-weight: var(--13-text-reg-font-weight);
+  color: var(--grey-2);
+  font-size: var(--13-text-reg-font-size);
+  letter-spacing: var(--13-text-reg-letter-spacing);
+  line-height: var(--13-text-reg-line-height);
+  white-space: nowrap;
+  font-style: var(--13-text-reg-font-style);
+}
+
+.receipt .set-your-location-2 {
+  position: absolute;
+  width: 86px;
+  top: 125px;
+  left: 44px;
+  font-family: var(--13-text-reg-font-family);
+  font-weight: var(--13-text-reg-font-weight);
+  color: var(--grey-2);
+  font-size: var(--13-text-reg-font-size);
+  letter-spacing: var(--13-text-reg-letter-spacing);
+  line-height: var(--13-text-reg-line-height);
+  white-space: nowrap;
+  font-style: var(--13-text-reg-font-style);
+}
+
+.receipt .address {
+  width: 553px;
+  top: 121px;
+  left: 218px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: var(--black);
+  font-size: 15px;
+  line-height: 20.4px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.receipt .text {
+  width: 500px;
+  top: 27px;
+  left: 218px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: var(--black);
+  font-size: 15px;
+  line-height: 20.4px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.receipt .ic-route {
+  position: absolute;
+  width: 51px;
+  height: 105px;
+  top: 30px;
+  left: 147px;
+}
+
+.receipt .ic-success {
+  position: absolute;
+  width: 131px;
+  height: 130px;
+  top: 43px;
+  left: 382px;
+}
+
+.receipt .group-2 {
+  position: absolute;
+  width: 163px;
+  height: 49px;
+  top: 457px;
+  left: 73px;
+}
+
+.receipt .text-wrapper-3 {
+  height: 24px;
+  top: 14px;
+  left: 76px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  line-height: 24.5px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.receipt .cards {
+  position: absolute;
+  width: 49px;
+  height: 49px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/ic-mastercard-2.svg);
+  background-size: 100% 100%;
+}
+
+.receipt .text-wrapper-4 {
+  height: 30px;
+  top: 469px;
+  left: 730px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22px;
+  line-height: 29.9px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.receipt .nav-btn {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 29px;
+  left: 34px;
+}
+
+.receipt .ic-menu-wrapper {
+  position: relative;
+  width: 66px;
+  height: 66px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 33px;
+  box-shadow: 0px 4px 15px #00000026;
+}
+
+.receipt .ic-menu {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  top: 6px;
+  left: 6px;
+}
