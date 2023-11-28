@@ -1,7 +1,7 @@
 .www-blablacar-com-ua {
   display: flex;
   flex-direction: column;
-  min-height: 1748px;
+  min-height: 2000px;
   align-items: flex-start;
   position: relative;
   background-color: var(--wwwblablacarcomuanero);
