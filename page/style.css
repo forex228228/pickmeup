@@ -292,7 +292,7 @@
 .www-blablacar-com-ua .p {
   position: relative;
   width: fit-content;
-  margin-top: -1px;
+  margin-top: 24px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
   font-weight: 400;
   color: var(--wwwblablacarcomuajuniper);
