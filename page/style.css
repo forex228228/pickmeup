@@ -2015,9 +2015,10 @@
 }
 
 .www-blablacar-com-ua .picture {
-  position: relative;
+  position: absolute;
   flex: 0 0 auto;
   margin-bottom: -4px;
+
 }
 
 .www-blablacar-com-ua .pseudo-3 {
