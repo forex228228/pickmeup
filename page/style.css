@@ -87,6 +87,20 @@
   white-space: nowrap;
 }
 
+.www-blablacar-com-ua .text-wrapper-1 {
+  position: relative;
+  width: fit-content;
+  margin-top: 5px;
+  font-family: "GT Eesti Pro Display-Medium", Helvetica;
+  font-weight: 50;
+  color: rgb(21 123 15);
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
 .www-blablacar-com-ua .span-sc-zpmp-wrapper {
   display: inline-flex;
   max-width: 579.28px;
