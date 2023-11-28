@@ -18,6 +18,7 @@
   align-self: stretch;
   width: 100%;
   z-index: 1;
+  left: 500px;
   background-color: var(--wwwblablacarcomuanero);
 }
 
