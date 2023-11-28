@@ -3,7 +3,7 @@
   flex-direction: column;
   min-height: 1000px;
   align-items: flex-start;
-  position: relative;
+  position: absolute;
   background-color: var(--wwwblablacarcomuanero);
 }
 
