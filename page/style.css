@@ -4,6 +4,7 @@
   min-height: 1748px;
   align-items: flex-start;
   position: relative;
+  left: 1000px;
   background-color: var(--wwwblablacarcomuanero);
 }
 
