@@ -3,7 +3,7 @@
   flex-direction: column;
   min-height: 1000px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   background-color: var(--wwwblablacarcomuanero);
 }
 
@@ -13,7 +13,7 @@
   align-items: center;
   justify-content: center;
   padding: 12px 24px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   z-index: 1;
@@ -24,7 +24,7 @@
   display: flex;
   width: 976px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .div-kirk-topbar-left {
@@ -35,11 +35,11 @@
   align-self: stretch;
   flex-grow: 1;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .link {
-  position: absolute;
+  position: center;
   max-width: 579.28px;
   flex: 0 0 auto;
 }
@@ -49,7 +49,7 @@
   max-width: 579.28px;
   align-items: center;
   padding: 12px 0px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   border-radius: 9999px;
   overflow: hidden;
@@ -58,7 +58,7 @@
 .www-blablacar-com-ua .span-sc {
   display: inline-flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
@@ -66,13 +66,13 @@
   display: inline-flex;
   flex-direction: column;
   align-items: center;
-  position: absolute;
+  position: center;
   align-self: stretch;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .text-wrapper {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
@@ -90,7 +90,7 @@
   max-width: 579.28px;
   align-items: center;
   padding: 12px 0px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   margin-right: -0.23px;
   border-radius: 9999px;
@@ -104,11 +104,11 @@
   align-self: stretch;
   flex: 0 0 auto;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .link-2 {
-  position: absolute;
+  position: center;
   align-self: stretch;
   max-width: 396.72px;
   width: 81.89px;
@@ -120,19 +120,19 @@
   top: 12px;
   display: inline-flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .span {
   display: inline-flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .SVG-margin {
-  position: absolute;
+  position: center;
   width: 32px;
   object-fit: cover;
 }
@@ -142,7 +142,7 @@
   display: inline-flex;
   flex-direction: column;
   align-items: center;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
@@ -151,7 +151,7 @@
   max-width: 396.72px;
   align-items: center;
   padding: 12px 0px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   border-radius: 9999px;
   overflow: hidden;
@@ -161,17 +161,17 @@
   display: inline-flex;
   flex-direction: column;
   align-items: center;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .div-sc-qqzq {
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .main {
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   height: 4233.7px;
@@ -179,7 +179,7 @@
 }
 
 .www-blablacar-com-ua .section {
-  position: absolute;
+  position: center;
   width: 1024px;
   height: 2717px;
   top: 843px;
@@ -189,7 +189,7 @@
 .www-blablacar-com-ua .article {
   width: 1024px;
   padding: 24px 24px 48px;
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
   background-color: var(--wwwblablacarcomuanero);
@@ -202,7 +202,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -214,7 +214,7 @@
   max-width: 1016px;
   width: 976px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
@@ -222,7 +222,7 @@
   display: flex;
   align-items: flex-start;
   padding: 0px 0.01px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -234,18 +234,18 @@
   width: 341.33px;
   align-items: flex-start;
   padding: 0px 48px 0px 0px;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .item {
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   height: 183px;
 }
 
 .www-blablacar-com-ua .div-sc-nmqxa {
-  position: absolute;
+  position: center;
   width: 293px;
   height: 43px;
   top: 0;
@@ -257,7 +257,7 @@
   display: flex;
   width: 293px;
   padding: 8px 39.33px 4px 0px;
-  position: absolute;
+  position: center;
   top: 51px;
   left: 0;
   flex-direction: column;
@@ -265,7 +265,7 @@
 }
 
 .www-blablacar-com-ua .text-wrapper-2 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
@@ -280,7 +280,7 @@
   display: flex;
   width: 293px;
   padding: 0px 8.33px 0px 0px;
-  position: absolute;
+  position: center;
   top: 103px;
   left: 0;
   flex-direction: column;
@@ -288,7 +288,7 @@
 }
 
 .www-blablacar-com-ua .p {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
@@ -303,7 +303,7 @@
   display: flex;
   width: 293px;
   padding: 8px 58.33px 4px 0px;
-  position: absolute;
+  position: center;
   top: 51px;
   left: 0;
   flex-direction: column;
@@ -311,7 +311,7 @@
 }
 
 .www-blablacar-com-ua .text-wrapper-3 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
@@ -327,7 +327,7 @@
   display: flex;
   width: 293px;
   padding: 0px 5.33px 0px 0px;
-  position: absolute;
+  position: center;
   top: 83px;
   left: 0;
   flex-direction: column;
@@ -335,7 +335,7 @@
 }
 
 .www-blablacar-com-ua .item-2 {
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 293.33px;
 }
@@ -344,7 +344,7 @@
   display: flex;
   width: 293px;
   padding: 8px 27.33px 4px 0px;
-  position: absolute;
+  position: center;
   top: 51px;
   left: 0;
   flex-direction: column;
@@ -355,7 +355,7 @@
   display: flex;
   width: 293px;
   padding: 0px 1.33px 0px 0px;
-  position: absolute;
+  position: center;
   top: 103px;
   left: 0;
   flex-direction: column;
@@ -368,7 +368,7 @@
   width: 1024px;
   align-items: flex-start;
   padding: 0px 24px;
-  position: absolute;
+  position: center;
   top: 279px;
   left: 0;
   background-color: var(--wwwblablacarcomuanero);
@@ -378,14 +378,14 @@
   display: flex;
   align-items: center;
   gap: 24px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .img {
-  position: absolute;
+  position: center;
   width: 476px;
   min-height: 320px;
 }
@@ -396,11 +396,11 @@
   width: 476px;
   align-items: center;
   justify-content: center;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .span-sc-fnb {
-  position: absolute;
+  position: center;
   width: 476px;
   height: 72px;
 }
@@ -410,12 +410,12 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 99px 0px 0px;
-  position: absolute;
+  position: center;
   top: -1px;
 }
 
 .www-blablacar-com-ua .text-wrapper-4 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
@@ -429,7 +429,7 @@
 .www-blablacar-com-ua .p-sc-wrapper {
   display: inline-flex;
   padding: 0px 0px 16px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   flex-direction: column;
   align-items: flex-start;
@@ -438,7 +438,7 @@
 .www-blablacar-com-ua .superhumans-wrapper {
   display: inline-flex;
   padding: 0px 5px 0px 0px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   flex-direction: column;
   align-items: flex-start;
@@ -448,7 +448,7 @@
   display: inline-flex;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
@@ -458,7 +458,7 @@
   max-width: 144.75px;
   align-items: center;
   padding: 12px 25px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   background-color: var(--wwwblablacarcomuacerulean);
   border-radius: 9999px;
@@ -471,11 +471,11 @@
   margin-right: -0.25px;
   display: inline-flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .text-wrapper-5 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
@@ -496,14 +496,14 @@
   width: 1024px;
   align-items: flex-start;
   padding: 0px 24px;
-  position: absolute;
+  position: center;
   left: 0;
 }
 
 .www-blablacar-com-ua .div-sc-3 {
   height: 228px;
   z-index: 1;
-  position: absolute;
+  position: center;
   width: 476px;
 }
 
@@ -511,7 +511,7 @@
   display: flex;
   width: 422px;
   padding: 0px 0px 8px;
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
   flex-direction: column;
@@ -519,7 +519,7 @@
 }
 
 .www-blablacar-com-ua .text-wrapper-6 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   margin-right: -1.05px;
@@ -537,7 +537,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 0px 16px;
-  position: absolute;
+  position: center;
   top: 40px;
   left: 0;
 }
@@ -545,14 +545,14 @@
 .www-blablacar-com-ua .bla-bla-car-wrapper {
   display: inline-flex;
   padding: 0px 3px 0px 0px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   flex-direction: column;
   align-items: flex-start;
 }
 
 .www-blablacar-com-ua .bla-bla-car {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
@@ -568,7 +568,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 0px 24px;
-  position: absolute;
+  position: center;
   top: 156px;
   left: 150px;
 }
@@ -579,7 +579,7 @@
   max-width: 176.55px;
   align-items: center;
   padding: 12px 25px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   background-color: var(--wwwblablacarcomuacerulean);
   border-radius: 9999px;
@@ -592,12 +592,12 @@
   margin-right: -0.45px;
   display: inline-flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .div-sc-4 {
   z-index: 0;
-  position: absolute;
+  position: center;
   width: 476px;
   min-height: 320px;
 }
@@ -610,7 +610,7 @@
   width: 1024px;
   align-items: flex-start;
   padding: 0px 24px;
-  position: absolute;
+  position: center;
   left: 0;
 }
 
@@ -618,13 +618,13 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   width: 476px;
   min-height: 320px;
 }
 
 .www-blablacar-com-ua .bus-sidecar {
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   height: 331.13px;
@@ -640,13 +640,13 @@
   top: -1px;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .p-sc-6 {
   display: inline-flex;
   padding: 0px 46px 0px 0px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   flex-direction: column;
   align-items: flex-start;
@@ -658,7 +658,7 @@
   max-width: 288.02px;
   align-items: center;
   padding: 12px 25px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   background-color: var(--wwwblablacarcomuacerulean);
   border-radius: 9999px;
@@ -670,7 +670,7 @@
   flex: 0 0 auto;
   display: inline-flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .div-sc-wrapper {
@@ -680,13 +680,13 @@
   width: 1024px;
   align-items: center;
   padding: 0px 24px;
-  position: absolute;
+  position: center;
   left: 0;
   background-color: var(--wwwblablacarcomuateal-blue);
 }
 
 .www-blablacar-com-ua .div-4 {
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -701,13 +701,13 @@
   flex: 0 0 auto;
   display: flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
 }
 
 .www-blablacar-com-ua .text-wrapper-7 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
@@ -725,7 +725,7 @@
   gap: 16px;
   width: 100%;
   flex: 0 0 auto;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
@@ -734,7 +734,7 @@
   flex-direction: column;
   width: 314.66px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
@@ -743,7 +743,7 @@
   min-height: 85.5px;
   align-items: center;
   padding: 16px 24px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -752,7 +752,7 @@
 }
 
 .www-blablacar-com-ua .span-kirk-item {
-  position: absolute;
+  position: center;
   flex: 1;
   flex-grow: 1;
   max-height: 41.4px;
@@ -763,7 +763,7 @@
   top: -1px;
   display: inline-flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .span-sc-8 {
@@ -771,11 +771,11 @@
   flex: 0 0 auto;
   display: inline-flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .text-wrapper-8 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
@@ -788,7 +788,7 @@
 }
 
 .www-blablacar-com-ua .text-wrapper-9 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   margin-left: -0.5px;
@@ -802,7 +802,7 @@
 }
 
 .www-blablacar-com-ua .span-sc-9 {
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   margin-left: -0.5px;
   display: inline-flex;
@@ -811,7 +811,7 @@
 }
 
 .www-blablacar-com-ua .span-kirk-item-2 {
-  position: absolute;
+  position: center;
   min-width: 40px;
   flex: 0 0 auto;
 }
@@ -821,7 +821,7 @@
   flex-direction: column;
   width: 314.67px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
@@ -830,7 +830,7 @@
   min-height: 85.5px;
   align-items: center;
   padding: 16px 24px 16px 24px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -840,19 +840,19 @@
 
 .www-blablacar-com-ua .overlap-group-wrapper {
   width: 112px;
-  position: absolute;
+  position: center;
   height: 21px;
   top: -1px;
 }
 
 .www-blablacar-com-ua .overlap-group {
-  position: absolute;
+  position: center;
   height: 22px;
   top: -1px;
 }
 
 .www-blablacar-com-ua .span-sc-10 {
-  position: absolute;
+  position: center;
   top: 1px;
   left: 0;
   display: inline-flex;
@@ -861,7 +861,7 @@
 }
 
 .www-blablacar-com-ua .text-wrapper-10 {
-  position: absolute;
+  position: center;
   height: 20px;
   top: 0;
   left: 35px;
@@ -875,7 +875,7 @@
 }
 
 .www-blablacar-com-ua .span-sc-11 {
-  position: absolute;
+  position: center;
   top: 1px;
   left: 59px;
   display: inline-flex;
@@ -888,7 +888,7 @@
   width: 976px;
   align-items: flex-start;
   padding: 8px 0px 24px 824.27px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
@@ -896,7 +896,7 @@
   display: inline-flex;
   flex-direction: column;
   align-items: center;
-  position: absolute;
+  position: center;
   align-self: stretch;
   flex: 0 0 auto;
   margin-right: -0.27px;
@@ -905,7 +905,7 @@
 }
 
 .www-blablacar-com-ua .text-wrapper-11 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
@@ -926,20 +926,20 @@
   width: 1024px;
   align-items: flex-start;
   padding: 0px 24px;
-  position: absolute;
+  position: center;
   left: 0;
 }
 
 .www-blablacar-com-ua .div-sc-7 {
   height: 164px;
-  position: absolute;
+  position: center;
   width: 476px;
 }
 
 .www-blablacar-com-ua .span-sc-12 {
   display: inline-flex;
   padding: 0px 0px 8px;
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
   flex-direction: column;
@@ -947,7 +947,7 @@
 }
 
 .www-blablacar-com-ua .text-wrapper-12 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
@@ -962,14 +962,14 @@
 .www-blablacar-com-ua .p-sc-7 {
   display: inline-flex;
   padding: 0px 17px 0px 0px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   flex-direction: column;
   align-items: flex-start;
 }
 
 .www-blablacar-com-ua .div-sc-8 {
-  position: absolute;
+  position: center;
   top: 116px;
   left: 134px;
   display: inline-flex;
@@ -983,7 +983,7 @@
   max-width: 208.83px;
   align-items: center;
   padding: 12px 25px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   background-color: var(--wwwblablacarcomuacerulean);
   border-radius: 9999px;
@@ -996,7 +996,7 @@
   margin-right: -0.17px;
   display: inline-flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .div-sc-y-wrapper {
@@ -1006,7 +1006,7 @@
   width: 1024px;
   align-items: center;
   padding: 0px 24px;
-  position: absolute;
+  position: center;
   left: 0;
   background-color: var(--wwwblablacarcomuateal-blue);
 }
@@ -1019,11 +1019,11 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .text-wrapper-13 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   margin-left: -1px;
@@ -1037,7 +1037,7 @@
 }
 
 .www-blablacar-com-ua .span-sc-14 {
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   margin-left: -1px;
   display: inline-flex;
@@ -1047,20 +1047,20 @@
 
 .www-blablacar-com-ua .span-sc-15 {
   width: 134px;
-  position: absolute;
+  position: center;
   height: 21px;
   top: -1px;
 }
 
 .www-blablacar-com-ua .overlap-group-2 {
-  position: absolute;
+  position: center;
   width: 135px;
   height: 22px;
   top: -1px;
 }
 
 .www-blablacar-com-ua .text-wrapper-14 {
-  position: absolute;
+  position: center;
   height: 20px;
   top: 0;
   left: 53px;
@@ -1074,7 +1074,7 @@
 }
 
 .www-blablacar-com-ua .span-sc-16 {
-  position: absolute;
+  position: center;
   top: 1px;
   left: 78px;
   display: inline-flex;
@@ -1087,13 +1087,13 @@
   width: 976px;
   align-items: flex-start;
   padding: 8px 0px 24px 860.14px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .button-2 {
   flex-direction: column;
-  position: absolute;
+  position: center;
   align-self: stretch;
   flex: 0 0 auto;
   margin-right: -0.14px;
@@ -1106,7 +1106,7 @@
 .www-blablacar-com-ua .article-3 {
   width: 1024px;
   padding: 24px 24px 48px;
-  position: absolute;
+  position: center;
   top: 2138px;
   left: 0;
   background-color: var(--wwwblablacarcomuanero);
@@ -1119,7 +1119,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1132,7 +1132,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .text-wrapper-15 {
@@ -1140,7 +1140,7 @@
   font-size: 40px;
   line-height: 42px;
   white-space: nowrap;
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
@@ -1150,7 +1150,7 @@
 }
 
 .www-blablacar-com-ua .link-blablalife {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
@@ -1163,14 +1163,14 @@
 }
 
 .www-blablacar-com-ua .item-5 {
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   height: 416.33px;
 }
 
 .www-blablacar-com-ua .overlap-group-3 {
-  position: absolute;
+  position: center;
   width: 293px;
   height: 348px;
   top: 0;
@@ -1182,7 +1182,7 @@
   flex-direction: column;
   width: 293px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
 }
@@ -1191,12 +1191,12 @@
   display: inline-flex;
   align-items: flex-start;
   padding: 0px 0px 3.99px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .IMG-jpg {
-  position: absolute;
+  position: center;
   flex: 1;
   flex-grow: 1;
   height: 293.33px;
@@ -1210,7 +1210,7 @@
   display: flex;
   width: 293px;
   padding: 7px 11.33px 25px 0px;
-  position: absolute;
+  position: center;
   top: 296px;
   left: 0;
   flex-direction: column;
@@ -1221,7 +1221,7 @@
   display: flex;
   width: 293px;
   padding: 0px 31.33px 0px 0px;
-  position: absolute;
+  position: center;
   top: 348px;
   left: 0;
   flex-direction: column;
@@ -1234,13 +1234,13 @@
   width: 293px;
   align-items: flex-start;
   padding: 8px 233.33px 0px 0px;
-  position: absolute;
+  position: center;
   top: 388px;
   left: 0;
 }
 
 .www-blablacar-com-ua .link-10 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
@@ -1253,7 +1253,7 @@
 }
 
 .www-blablacar-com-ua .overlap-group-4 {
-  position: absolute;
+  position: center;
   width: 293px;
   height: 255px;
   top: 0;
@@ -1264,12 +1264,12 @@
   display: inline-flex;
   align-items: flex-start;
   padding: 0px 0px 4px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .UA-product {
-  position: absolute;
+  position: center;
   flex: 1;
   flex-grow: 1;
   height: 180.09px;
@@ -1283,7 +1283,7 @@
   display: flex;
   width: 293px;
   padding: 8px 3.33px 4px 0px;
-  position: absolute;
+  position: center;
   top: 183px;
   left: 0;
   flex-direction: column;
@@ -1294,7 +1294,7 @@
   display: flex;
   width: 293px;
   padding: 0px 13.33px 0px 0px;
-  position: absolute;
+  position: center;
   top: 255px;
   left: 0;
   flex-direction: column;
@@ -1308,12 +1308,12 @@
   width: 293px;
   align-items: flex-start;
   padding: 8px 233.33px 0px 0px;
-  position: absolute;
+  position: center;
   left: 0;
 }
 
 .www-blablacar-com-ua .overlap {
-  position: absolute;
+  position: center;
   width: 293px;
   height: 256px;
   top: 0;
@@ -1321,7 +1321,7 @@
 }
 
 .www-blablacar-com-ua .my {
-  position: absolute;
+  position: center;
   flex: 1;
   flex-grow: 1;
   height: 200.92px;
@@ -1335,7 +1335,7 @@
   display: flex;
   width: 293px;
   padding: 8px 6.33px 4px 0px;
-  position: absolute;
+  position: center;
   top: 204px;
   left: 0;
   flex-direction: column;
@@ -1346,7 +1346,7 @@
   display: flex;
   width: 293px;
   padding: 0px 17.33px 0px 0px;
-  position: absolute;
+  position: center;
   top: 256px;
   left: 0;
   flex-direction: column;
@@ -1360,7 +1360,7 @@
   width: 293px;
   align-items: flex-start;
   padding: 8px 233.33px 0px 0px;
-  position: absolute;
+  position: center;
   left: 0;
 }
 
@@ -1370,7 +1370,7 @@
   width: 1024px;
   align-items: flex-start;
   padding: 24px 0px 0px;
-  position: absolute;
+  position: center;
   top: 3560px;
   left: 0;
 }
@@ -1379,7 +1379,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1392,7 +1392,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1404,7 +1404,7 @@
   max-width: 1016px;
   width: 1016px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
@@ -1415,7 +1415,7 @@
   flex: 0 0 auto;
   display: flex;
   gap: 24px;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
@@ -1426,7 +1426,7 @@
   align-items: flex-start;
   gap: 56px;
   padding: 0px 0px 183px;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
@@ -1436,14 +1436,14 @@
   flex: 0 0 auto;
   display: flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
 }
 
 .www-blablacar-com-ua .text-wrapper-16 {
   white-space: nowrap;
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
@@ -1459,7 +1459,7 @@
   flex-direction: column;
   align-items: flex-start;
   gap: 32px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1470,14 +1470,14 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 64px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .text-wrapper-17 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
@@ -1494,7 +1494,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 74px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1505,7 +1505,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 88px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1516,7 +1516,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 98px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1527,7 +1527,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 101px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1538,7 +1538,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 114px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1551,7 +1551,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
@@ -1560,14 +1560,14 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .text-wrapper-18 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
@@ -1583,7 +1583,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 144px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1594,7 +1594,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 124px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1605,7 +1605,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 48px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1616,7 +1616,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 133px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1627,7 +1627,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 138px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1640,7 +1640,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
@@ -1649,7 +1649,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1660,7 +1660,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 115px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1671,7 +1671,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 108px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1682,7 +1682,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 127px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1693,7 +1693,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 134px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1704,7 +1704,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 97px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1716,7 +1716,7 @@
   align-items: flex-start;
   display: flex;
   gap: 24px;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
@@ -1728,7 +1728,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
@@ -1737,7 +1737,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1748,7 +1748,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 84px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1759,7 +1759,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 176px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1770,7 +1770,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 109px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1781,7 +1781,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 177px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1792,7 +1792,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 63px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1803,7 +1803,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 135px 0px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1814,7 +1814,7 @@
   padding: 0px 0px 16px;
   display: flex;
   flex-direction: column;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1825,12 +1825,12 @@
   flex-direction: column;
   width: 236px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .pseudo {
-  position: absolute;
+  position: center;
   width: 236px;
   height: 46px;
   top: 0;
@@ -1842,7 +1842,7 @@
 }
 
 .www-blablacar-com-ua .pseudo-2 {
-  position: absolute;
+  position: center;
   width: 8px;
   height: 6px;
   top: 22px;
@@ -1860,7 +1860,7 @@
   display: flex;
   align-items: center;
   padding: 25px 8px 7px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1872,12 +1872,12 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 142px 0px 0px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .label {
-  position: absolute;
+  position: center;
   width: 191px;
   height: 1px;
   top: 0;
@@ -1890,13 +1890,13 @@
   width: 191px;
   align-items: flex-start;
   padding: 0px 158px 0px 0px;
-  position: absolute;
+  position: center;
   top: 8px;
   left: 9px;
 }
 
 .www-blablacar-com-ua .text-wrapper-19 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
@@ -1912,7 +1912,7 @@
   width: 100%;
   flex: 0 0 auto;
   object-fit: cover;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
@@ -1921,7 +1921,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -1934,7 +1934,7 @@
   flex: 0 0 auto;
   display: flex;
   gap: 24px;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
@@ -1945,12 +1945,12 @@
   align-items: center;
   gap: 0px 0px;
   padding: 5.5px 609px 5.5px 0px;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
 .www-blablacar-com-ua .text-wrapper-20 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
@@ -1968,12 +1968,12 @@
   padding: 0px 52px 0px 0px;
   display: flex;
   gap: 24px;
-  position: absolute;
+  position: center;
   align-self: stretch;
 }
 
 .www-blablacar-com-ua .blablacar-logo-small {
-  position: absolute;
+  position: center;
   width: 32px;
   height: 27px;
 }
@@ -1985,7 +1985,7 @@
   min-height: 843px;
   align-items: flex-start;
   padding: 0px 0px 24px;
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
 }
@@ -1996,7 +1996,7 @@
   min-height: 819px;
   align-items: center;
   padding: 0px 4px 0.02px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -2009,20 +2009,20 @@
   width: 1024px;
   height: 819px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
 }
 
 .www-blablacar-com-ua .picture {
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   margin-bottom: -4px;
 
 }
 
 .www-blablacar-com-ua .pseudo-3 {
-  position: absolute;
+  position: center;
   width: 1024px;
   height: 819px;
   top: 0;
@@ -2038,7 +2038,7 @@
   align-items: flex-start;
   gap: 327.59px;
   padding: 81.89px 0px 0px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
@@ -2048,13 +2048,13 @@
   padding: 0px 134.34px 43.8px 134.66px;
   display: flex;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
 }
 
 .www-blablacar-com-ua .text-wrapper-21 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
@@ -2073,7 +2073,7 @@
   align-items: center;
   justify-content: center;
   padding: 0px 24px;
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   flex: 0 0 auto;
@@ -2084,12 +2084,12 @@
   flex-direction: column;
   width: 968px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
 }
 
 .www-blablacar-com-ua .search {
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   height: 56px;
@@ -2103,20 +2103,20 @@
   flex-direction: column;
   width: 263px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   top: 0;
   left: 8px;
 }
 
 .www-blablacar-com-ua .div-kirk-textfield {
-  position: absolute;
+  position: center;
   align-self: stretch;
   width: 100%;
   height: 56px;
 }
 
 .www-blablacar-com-ua .label-margin {
-  position: absolute;
+  position: center;
   width: 40px;
   height: 24px;
   top: 16px;
@@ -2124,7 +2124,7 @@
 }
 
 .www-blablacar-com-ua .combobox {
-  position: absolute;
+  position: center;
   width: 165px;
   height: 56px;
   top: 1px;
@@ -2132,7 +2132,7 @@
 }
 
 .www-blablacar-com-ua .overlap-group-5 {
-  position: absolute;
+  position: center;
   height: 21px;
   top: 18px;
 }
@@ -2142,13 +2142,13 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 102px 0px 0px;
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
 }
 
 .www-blablacar-com-ua .text-wrapper-22 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: var(--www-blablacar-com-ua-GT-eesti-pro-display-regular-18-font-family);
@@ -2165,20 +2165,20 @@
   display: inline-flex;
   align-items: center;
   padding: 0px 4px 0px 0px;
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
 }
 
 .www-blablacar-com-ua .div-editing-view {
-  position: absolute;
+  position: center;
   flex: 1;
   flex-grow: 1;
   height: 21px;
 }
 
 .www-blablacar-com-ua .separator {
-  position: absolute;
+  position: center;
   width: 1px;
   height: 40px;
   top: 8px;
@@ -2187,7 +2187,7 @@
 }
 
 .www-blablacar-com-ua .separator-2 {
-  position: absolute;
+  position: center;
   width: 1px;
   height: 40px;
   top: 8px;
@@ -2199,7 +2199,7 @@
   height: 56px;
   justify-content: center;
   padding: 18px 52.83px 18px 53.17px;
-  position: absolute;
+  position: center;
   top: 0;
   left: 800px;
   background-color: var(--wwwblablacarcomuacerulean);
@@ -2212,7 +2212,7 @@
 }
 
 .www-blablacar-com-ua .text-wrapper-23 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
@@ -2229,13 +2229,13 @@
   flex-direction: column;
   width: 263px;
   align-items: flex-start;
-  position: absolute;
+  position: center;
   top: 0;
   left: 272px;
 }
 
 .www-blablacar-com-ua .combobox-2 {
-  position: absolute;
+  position: center;
   width: 223px;
   height: 56px;
   top: 1px;
@@ -2247,7 +2247,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 0px 173px 0px 0px;
-  position: absolute;
+  position: center;
   top: 0;
   left: 0;
 }
@@ -2256,7 +2256,7 @@
   display: inline-flex;
   align-items: center;
   padding: 0px 15.89px 0px 0px;
-  position: absolute;
+  position: center;
   top: 0;
   left: 536px;
 }
@@ -2264,7 +2264,7 @@
 .www-blablacar-com-ua .button-3 {
   height: 56px;
   padding: 16px 41.03px 16px 8px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   display: inline-flex;
   align-items: center;
@@ -2273,7 +2273,7 @@
 }
 
 .www-blablacar-com-ua .SVG {
-  position: absolute;
+  position: center;
   width: 24px;
   height: 24px;
 }
@@ -2281,7 +2281,7 @@
 .www-blablacar-com-ua .span-sc-17 {
   display: inline-flex;
   padding: 0px 0px 0px 8px;
-  position: absolute;
+  position: center;
   flex: 0 0 auto;
   flex-direction: column;
   align-items: flex-start;
@@ -2294,11 +2294,11 @@
   overflow: hidden;
   flex-direction: column;
   align-items: flex-start;
-  position: absolute;
+  position: center;
 }
 
 .www-blablacar-com-ua .text-wrapper-24 {
-  position: absolute;
+  position: center;
   width: fit-content;
   margin-top: -1px;
   margin-right: -0.92px;
@@ -2312,7 +2312,7 @@
 }
 
 .www-blablacar-com-ua .div-sc-yaha {
-  position: absolute;
+  position: center;
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -2321,7 +2321,7 @@
 .www-blablacar-com-ua .button-4 {
   height: 56px;
   padding: 18px 64px 18px 0px;
-  position: absolute;
+  position: center;
   top: 0;
   left: 704px;
   display: inline-flex;
@@ -2331,7 +2331,7 @@
 }
 
 .www-blablacar-com-ua .SVG-2 {
-  position: absolute;
+  position: center;
   width: 18px;
   height: 18px;
 }
