@@ -926,12 +926,28 @@
   margin-top: -1px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
   font-weight: 400;
-  color: rgb(21 123 15);
+  color: rgb(10 160 15);
   font-size: 16px;
   text-align: center;
   letter-spacing: 0;
   line-height: 16px;
   white-space: nowrap;
+  margin-left: -850px;
+}
+
+.www-blablacar-com-ua .text-wrapper-111 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "GT Eesti Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: rgb(10 160 15);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+  margin-left: -823px;
 }
 
 .www-blablacar-com-ua .div-sc-6 {
@@ -1168,7 +1184,7 @@
 .www-blablacar-com-ua .link-blablalife {
   position: relative;
   width: fit-content;
-  margin-top: -1px;
+  margin-top: 67px;
   font-family: "GT Eesti Pro Display-Regular", Helvetica;
   font-weight: 400;
   color: rgb(21 123 15);
@@ -1176,6 +1192,7 @@
   letter-spacing: 0;
   line-height: 16px;
   white-space: nowrap;
+  margin-left: -974px;
 }
 
 .www-blablacar-com-ua .item-5 {
