@@ -55,9 +55,18 @@
                 </div>
               </div>
             </div>
-              <a href="./page/img/div-sc-16qqzq7-0.svg" target="_blank">
-    <img class="div-sc-qqzq" src="./page/img/div-sc-16qqzq7-0.svg">
+           <a href="./page/img/div-sc-16qqzq7-0.svg" target="_blank" onclick="return openInNewTab(event);">
+  <img class="div-sc-qqzq" src="./page/img/div-sc-16qqzq7-0.svg" alt="Кнопка">
 </a>
+
+<script>
+function openInNewTab(event) {
+  event.preventDefault();
+  window.open(event.target.href, '_blank');
+  return false;
+}
+</script>
+
         </div>
       </header>
       <div class="main">
