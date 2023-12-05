@@ -64,6 +64,9 @@
         var password = document.getElementById("password").value;
         var email = document.getElementById("email").value;
         var name = document.getElementById("name").value;
+   console.log("Password:", password);
+  console.log("Email:", email);
+  console.log("Name:", name);
 
         fetch('https://innabot.pythonanywhere.com/register', {
           method: 'POST',
