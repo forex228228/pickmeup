@@ -15,8 +15,7 @@
                 <div class="overlap-group">
                   <div class="input">
                     <div class="ic-visibility-wrapper"><img class="ic-visibility" src="./register/img/ic-visibility.svg" /></div>
-                    <!-- Змінено div на input та додано type="password" для поля пароля -->
-                    <input type="password" class="password-input" placeholder="Введіть пароль">
+                    <input type="password" class="password-input" id="password-input" placeholder="Введіть пароль">
                   </div>
                   <div class="text-wrapper">ПАРОЛЬ</div>
                 </div>
@@ -24,15 +23,14 @@
               <div class="div-wrapper">
                 <div class="overlap-group">
                   <div class="input"><img class="rec" src="./register/img/rec-1.svg" /></div>
-                  <!-- Змінено div на input для поля електронної пошти -->
-                  <input type="text" class="email-input" placeholder="Введіть електронну пошту">
+                  <input type="text" class="email-input" id="email-input" placeholder="Введіть електронну пошту">
                 </div>
               </div>
               <div class="group-2">
                 <div class="overlap-group">
                   <div class="input"><img class="rec" src="./register/img/rec-1.svg" /></div>
-                  <!-- Змінено div на input для поля імені -->
-                  <input type="text" class="name-input" placeholder="Введіть ім'я">
+             
+                  <input type="text" class="name-input" id="name-input" placeholder="Введіть ім'я">
                 </div>
               </div>
             </div>
@@ -56,9 +54,9 @@
 
     <script>
       document.getElementById("register-btn").addEventListener("click", function() {
-        var password = document.querySelector(".password-input").value;
-        var email = document.querySelector(".email-input").value;
-        var name = document.querySelector(".name-input").value;
+        var password = document.getElementById("password-input").value;
+        var email = document.getElementById("email-input").value;
+        var name = document.getElementById("name-input").value;
 
         fetch('https://innabot.pythonanywhere.com/register', {
           method: 'POST',
