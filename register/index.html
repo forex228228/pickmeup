@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <link rel="stylesheet" href="./register/globals.css" />
     <link rel="stylesheet" href="./register/styleguide.css" />
@@ -14,31 +14,35 @@
               <div class="overlap-group-wrapper">
                 <div class="overlap-group">
                   <div class="input">
-      <input type="text" class="password-input" placeholder="Введіть пароль">
-
+                    <div class="ic-visibility-wrapper">
+                      <img class="ic-visibility" src="./register/img/ic-visibility.svg" />
+                    </div>
+                    <input type="password" id="password" class="password-input" placeholder="Введіть пароль">
                   </div>
                   <div class="text-wrapper">ПАРОЛЬ</div>
                 </div>
               </div>
               <div class="div-wrapper">
                 <div class="overlap-group">
-                  <div class="input"><img class="rec" src="./register/img/rec-1.svg" />
-                     <input type="text" class="email-input" placeholder="Введіть електронну пошту">
+                  <div class="input">
+                    <img class="rec" src="./register/img/rec-1.svg" />
+                    <input type="text" id="email" class="email-input" placeholder="Введіть електронну пошту">
                   </div>
                   <div class="div">ЕЛЕКТРОННА ПОШТА</div>
                 </div>
               </div>
               <div class="group-2">
                 <div class="overlap-group">
-                  <div class="input"><img class="rec" src="./register/img/rec-1.svg" />
-                   <input type="text" class="email-input" placeholder="Введіть ім'я">
+                  <div class="input">
+                    <img class="rec" src="./register/img/rec-1.svg" />
+                    <input type="text" id="name" class="name-input" placeholder="Введіть ім'я">
                   </div>
                   <div class="div">ІМ’Я</div>
                 </div>
               </div>
             </div>
             <div class="text-wrapper-2">РЕЄСТРАЦІЯ</div>
-            <div class="btn-main">
+            <div class="btn-main" id="register-btn">
               <div class="btn-text-wrapper"><div class="btn-text">Зареєструватися</div></div>
             </div>
             <div class="desc">
@@ -54,13 +58,13 @@
         </div>
       </div>
     </div>
+
     <script>
       document.getElementById("register-btn").addEventListener("click", function() {
         var password = document.getElementById("password").value;
         var email = document.getElementById("email").value;
         var name = document.getElementById("name").value;
 
-     
         fetch('https://innabot.pythonanywhere.com/register', {
           method: 'POST',
           headers: {
