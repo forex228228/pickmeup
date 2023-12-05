@@ -60,29 +60,37 @@
     </div>
 
     <script>
-      document.getElementById("register-btn").addEventListener("click", function() {
-        var password = document.getElementById("password").value;
-        var email = document.getElementById("email").value;
-        var name = document.getElementById("name").value;
-   console.log("Password:", password);
-  console.log("Email:", email);
-  console.log("Name:", name);
-
-        fetch('https://innabot.pythonanywhere.com/register', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({ password: password, email: email, name: name }),
-        })
-        .then(response => response.json())
-        .then(data => {
-          console.log('Success:', data);
-        })
-        .catch((error) => {
-          console.error('Error:', error);
-        });
+    document.getElementById("register-btn").addEventListener("click", function() {
+      var password = document.getElementById("password").value;
+      var email = document.getElementById("email").value;
+      var name = document.getElementById("name").value;
+      console.log("Password:", password);
+      console.log("Email:", email);
+      console.log("Name:", name);
+    
+      fetch('https://innabot.pythonanywhere.com/register', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ password: password, email: email, name: name }),
+      })
+      .then(response => response.json())
+      .then(data => {
+        console.log('Success:', data);
+        if (data.success === true) {
+          // Перевірка, чи сервер повертає "success": true
+          alert("Реєстрація пройшла успішно!");
+          window.location.href = "/login"; // Перенаправлення на сторінку /login
+        } else {
+          alert("Помилка під час реєстрації. Будь ласка, спробуйте знову.");
+        }
+      })
+      .catch((error) => {
+        console.error('Error:', error);
+        alert("Помилка під час виконання запиту. Будь ласка, спробуйте знову.");
       });
+    });
     </script>
   </body>
 </html>
