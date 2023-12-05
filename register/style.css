@@ -56,7 +56,7 @@
   position: absolute;
   width: 834px;
   height: 71px;
-  top: 0;
+  top: 28px;
   left: 0;
 }
 
@@ -77,12 +77,12 @@
 }
 
 .sign-up .text-wrapper {
-  left: 14px;
+  left: 0px;
   font-weight: 500;
   font-size: 20px;
   position: absolute;
   height: 20px;
-  top: 0;
+  top: -24px;
   font-family: "Montserrat", Helvetica;
   color: #000000;
   letter-spacing: 0;
@@ -107,7 +107,7 @@
 }
 
 .sign-up .div {
-  left: 15px;
+  left: 1px;
   font-weight: 500;
   font-size: 20px;
   position: absolute;
@@ -129,12 +129,12 @@
 }
 
 .sign-up .text-wrapper-2 {
-  left: 309px;
+  left: 321px;
   font-weight: 600;
   font-size: 32px;
   position: absolute;
   height: 20px;
-  top: 0;
+  top: 19px;
   font-family: "Montserrat", Helvetica;
   color: #000000;
   letter-spacing: 0;
@@ -236,3 +236,54 @@
   top: 0;
   font-style: var(--15-text-reg-font-style);
 }
+
+.password-input { 
+  width: 100%;  padding: 12px; 
+  margin-bottom: 15px;  border: 1px solid #ccc; 
+  border-radius: 4px;  outline: none; 
+  box-sizing: border-box;} 
+ 
+.email-input {  width: 100%; 
+  padding: 12px;  margin-bottom: 15px; 
+  border: 1px solid #ccc;  border-radius: 4px; 
+  outline: none;  box-sizing: border-box; 
+} 
+ 
+.name-input {  width: 100%; 
+  padding: 12px;  margin-bottom: 25px; 
+  border: 1px solid #ccc;  border-radius: 4px; 
+  outline: none;  box-sizing: border-box; 
+}
+
+.text-wrapper, .div, .div-wrapper {
+  font-size: 14px;  color: #555;
+  margin-bottom: 5px;}
+
+.text-wrapper-2 {  font-size: 24px;
+  font-weight: bold;  margin-bottom: 20px;
+  color: #333;}
+
+.btn-main {  background-color: #4caf50;
+  color: #fff;  padding: 12px 20px;
+  border: none;  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;}
+
+.desc {  margin-top: 20px;
+  text-align: center;
+  font-size: 14px;  color: #666;
+}
+.link-2 {
+  color: #007bff;
+  cursor: pointer;}
+
+.ic-visibility-wrapper {  position: absolute;
+  top: 50%;  right: 10px;
+  transform: translateY(-50%);  cursor: pointer;
+}
+
+.ic-visibility {  width: 20px;
+  height: 20px;  fill: #888;
+}
+.ic-visibility-wrapper:hover .ic-visibility {
+  fill: #555;}
