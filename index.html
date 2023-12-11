@@ -177,20 +177,30 @@ function openInNewTab(event) {
                         </p>
                       </div>
                     </div>
-                    <div class="link-wrapper">
-                      <div class="link-5">
-                        <div class="span-sc-5">
-                          <a href="https://page/div-sc-16qqzq7-0.svg" target="_blank" rel="noopener noreferrer"
-                            ><div class="text-wrapper-5">Дізнатися більше</div></a
-                          >
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <img class="div-sc-4" src="./page/img/div-sc-s6krkj-3-1.svg" />
-                </div>
-              </div>
-            </div>
+                   <div class="your-container">
+  <div class="your-inner-container">
+    <div class="your-content-wrapper">
+      <a href="#" id="myLink">
+        <div class="text-wrapper-5">Дізнатися більше</div>
+      </a>
+    </div>
+    <div class="your-image-container">
+      <img class="div-sc-4" src="./page/img/div-sc-s6krkj-3-1.svg" />
+    </div>
+  </div>
+</div>
+
+<script>
+  // Отримання посилання на елемент за його ідентифікатором
+  var myLink = document.getElementById("myLink");
+
+  //  обробник події для натискання на елемент
+  myLink.addEventListener("click", function(event) {
+    // Заборонв стандартної дії посилання 
+    event.preventDefault();
+    document.body.innerHTML = "янавозна";
+  });
+</script>
           </div>
           <div class="div-sc-5">
             <div class="div-wrapper-2">
