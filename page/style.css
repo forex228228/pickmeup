@@ -2370,8 +2370,12 @@
   height: 18px;
 }
 
+.profile___item {
+  top: 12px
+}
+
 .div-sc-qqzq{
-  padding: 12px;
+  padding: 2px;
 }
   /*менюшка*/
 #menu__toggle {
