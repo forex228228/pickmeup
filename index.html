@@ -72,7 +72,17 @@ function openInNewTab(event) {
           var profileButton =document.getElementById("profileButton");
           profileButton.addEventListener("click",function(event){
             event.preventDefault();
-            document.body.innerHTML='<img class="profileButton" src="https://pickmeup.vercel.app/profile"/>';
+
+            
+            var imgElement = document.createElement("img");
+    imgElement.className = "profileButton";
+    imgElement.src = "https://pickmeup.vercel.app/profile";
+
+    // Append the image to the body
+    document.body.innerHTML = ''; // Clear existing content
+    document.body.appendChild(imgElement);
+
+            
           });
         </script>
 
