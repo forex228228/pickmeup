@@ -272,7 +272,7 @@
 
 .www-blablacar-com-ua .p-sc {
   display: flex;
-  width: 293px;
+  width: 341px;
   padding: 8px 39.33px 4px 0px;
   position: absolute;
   top: 51px;
@@ -295,10 +295,10 @@
 
 .www-blablacar-com-ua .p-sc-fnb {
   display: flex;
-  width: 293px;
+  width: 305px;
   padding: 0px 8.33px 0px 0px;
   position: absolute;
-  top: 103px;
+  top: 85px;
   left: 0;
   flex-direction: column;
   align-items: flex-start;
@@ -342,7 +342,7 @@
 
 .www-blablacar-com-ua .p-sc-3 {
   display: flex;
-  width: 293px;
+  width: 305px;
   padding: 0px 5.33px 0px 0px;
   position: absolute;
   top: 83px;
@@ -359,7 +359,7 @@
 
 .www-blablacar-com-ua .p-sc-4 {
   display: flex;
-  width: 293px;
+  width: 306px;
   padding: 8px 27.33px 4px 0px;
   position: absolute;
   top: 51px;
@@ -370,10 +370,10 @@
 
 .www-blablacar-com-ua .p-sc-5 {
   display: flex;
-  width: 293px;
+  width: 312px;
   padding: 0px 1.33px 0px 0px;
   position: absolute;
-  top: 103px;
+  top: 84px;
   left: 0;
   flex-direction: column;
   align-items: flex-start;
@@ -658,6 +658,7 @@
   flex-direction: column;
   align-items: flex-start;
   position: relative;
+  width: 1000px;
 }
 
 .www-blablacar-com-ua .p-sc-6 {
@@ -667,6 +668,8 @@
   flex: 0 0 auto;
   flex-direction: column;
   align-items: flex-start;
+  width: 485px;
+  margin-top: -8px;
 }
 
 .www-blablacar-com-ua .link-6 {
@@ -999,6 +1002,7 @@
   flex: 0 0 auto;
   flex-direction: column;
   align-items: flex-start;
+  width: 485px;
 }
 
 .www-blablacar-com-ua .div-sc-8 {
