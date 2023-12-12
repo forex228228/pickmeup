@@ -2371,7 +2371,8 @@
 }
 
 .profile___item {
-  margin-top: 15px;
+  margin-top: 12px;
+  margin-left: -17px;
   font-family: "GT Eesti Pro Display-Medium", Helvetica;
   position: relative;
   width: fit-content;
