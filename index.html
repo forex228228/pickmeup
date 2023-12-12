@@ -68,21 +68,13 @@ function openInNewTab(event) {
   <img class="div-sc-qqzq" src="./page/img/div-sc-16qqzq7-0.svg">
 </a>
     <a class="profile___item" href="#profile" id="profileButton">Профіль</a>
+            <a href="#profile" target="profile" onclick="return openInNewTab(event);">
+            <img class="profile___item" src="https://pickmeup.vercel.app/profile">
+            </a>
         <script>
           var profileButton =document.getElementById("profileButton");
           profileButton.addEventListener("click",function(event){
             event.preventDefault();
-
-            
-            var imgElement = document.createElement("img");
-    imgElement.className = "profileButton";
-    imgElement.src = "https://pickmeup.vercel.app/profile";
-
-    // Append the image to the body
-    document.body.innerHTML = ''; // Clear existing content
-    document.body.appendChild(imgElement);
-
-            
           });
         </script>
 
