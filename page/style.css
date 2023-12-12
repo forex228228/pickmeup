@@ -739,7 +739,7 @@
 .www-blablacar-com-ua .list-2 {
   display: flex;
   align-items: flex-start;
-  gap: 16px;
+  gap: 2px;
   width: 100%;
   flex: 0 0 auto;
   position: relative;
@@ -933,7 +933,7 @@
   letter-spacing: 0;
   line-height: 16px;
   white-space: nowrap;
-  margin-left: -850px;
+  margin-left: -860px;
 }
 
 .www-blablacar-com-ua .text-wrapper-111 {
